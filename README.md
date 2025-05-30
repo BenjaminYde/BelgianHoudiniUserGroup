@@ -16,3 +16,4 @@
   - [LeonHeytens_ThrownIntoTheDeep](./meetups/3_27-02-2025/HUG_27-02-2025_LeonHeytens_ThrownIntoTheDeep.pdf)
 - **HUG#2 13-11-2024**
   - [SimonVerstraete_COPSForUnrealEngine](./meetups/2_13-11-2024/HUG_13-11-2024_SimonVerstraete_COPSForUnrealEngine.pdf)
+  - **BenjaminYde_HowIsHoudiniUsedInComputerVisionUsingSyntheticData** (talk not public)
