@@ -1,0 +1,20 @@
+{
+  "env": [
+    {
+      "PYTHONPATH": {
+        "value": [
+          "$HOUDINI_USER_PREF_DIR\\packages\\demo_29-05-2025\\python\\demo_29_05_2025",
+          "$HOUDINI_USER_PREF_DIR\\packages\\demo_29-05-2025\\python\\.venv\\lib\\python3.10\\site-packages"
+        ],
+        "method": "append"
+      }
+    }
+  ],
+  "hpath" : 
+  [
+      {
+          "value" : "$HOUDINI_USER_PREF_DIR\\packages\\demo_29-05-2025",
+          "method" : "append"
+      }
+  ]
+}

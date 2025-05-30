@@ -1,0 +1,16 @@
+{
+    "box_size": 1.25,
+    "corner_bevel": 0.01,
+    "text": "ProceduralBE",
+    "rotation": {
+        "x": 5, 
+        "y": 10,
+        "z": 15
+    },
+    "spawn_points": [
+        {
+            "x": 0, 
+            "y": 0
+        }
+    ]
+}
