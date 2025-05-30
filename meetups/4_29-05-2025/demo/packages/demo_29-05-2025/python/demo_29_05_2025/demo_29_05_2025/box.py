@@ -2,22 +2,22 @@ from pathlib import Path
 from pydantic import BaseModel
 
 class Vector2(BaseModel):
-    x: float
-    y: float
+    x: float = 0
+    y: float = 0
 
 
 class Rotation(BaseModel):
-    x: float
-    y: float
-    z: float
+    x: float = 0
+    y: float = 0
+    z: float = 0
 
 
 class Box(BaseModel):
     box_size: float = 1
     corner_bevel: float = 0.01
     text: str = "ToDo"
-    rotation: Rotation = [0,0,0]
-    spawn_points: list[Vector2] = [Vector2(0,0)]
+    rotation: Rotation = Rotation()
+    spawn_points: list[Vector2] = []
 
 
 def read_config(box_file: Path) -> Box:
