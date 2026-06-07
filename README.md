@@ -1,5 +1,10 @@
 # Belgian Houdini User Group
 
+## Community Links
+
+- [Meetup](https://www.meetup.com/brussels-houdini-user-group-bruhug/)
+- [Discord](https://discord.gg/sCTkhRK) (please only join when from Belgium)
+
 ## Folder Structure
 
 - 📁`meetups/`: Contains files such as presentations which are sorted per meetup.
